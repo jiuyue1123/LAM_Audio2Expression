@@ -15,4 +15,4 @@ outputs/
 TEMP/
 pretrained/
 **/*.out
-Dockerfile
+assets/

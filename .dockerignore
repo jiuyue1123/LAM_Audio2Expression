@@ -1,0 +1,48 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info
+dist
+build
+
+# Virtual environments
+venv
+env
+ENV
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints
+
+# Tests
+test_*.py
+debug_*.py
+
+# Documentation
+*.md
+!README.md
+
+# Assets (download separately)
+assets/
+
+# Temporary files
+*.log
+*.tmp
+exp/
+exps/
+dumps/
+
+# Scripts
+scripts/
